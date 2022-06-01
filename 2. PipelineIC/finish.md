@@ -1,0 +1,1 @@
+En esta sesión aprendimos a configurar un pipeline de integración continua bajo plantillas definidas por la herramienta, definiciones de gobierno establecidas por el equipo DevOps, y todo lo necesario para construir de forma automática nuestra aplicación para posteriormente ser implementada en un ambiente.

@@ -1,0 +1,1 @@
+En esta sesión aprenderemos a crear un pipeline de integración continua, con todos las configuraciones y lineamientos establecidos en EPM, aplicando todo lo necesario para construir de forma automática nuestra aplicación, y posteriormente ser implementada en un ambiente de pruebas y producción.

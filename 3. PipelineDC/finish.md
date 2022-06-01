@@ -1,0 +1,1 @@
+En esta sesión aprendimos a configurar un pipeline de release, con todas las respectivas configuraciones y lineamientos establecidos por la organización de grupo EPM.

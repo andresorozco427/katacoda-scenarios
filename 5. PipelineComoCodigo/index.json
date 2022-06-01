@@ -1,0 +1,54 @@
+{
+  "title": "Pipelines como código (YAML)",
+  "description": "En este escenario se pondrá en practica la construcción de pipelines como código desde Azure DevOps",
+  "difficulty": "Beginner",
+  "time": "(40 minutes)",
+  "details": {
+    "steps": [
+      {
+        "title": "Creación de pipeline de integración continua a partir de plantilla .NET",
+        "text": "step1.md"
+      },
+      {
+        "title": "Ajuste del nombre del pipeline acorde a la definición de nombramiento establecida",
+        "text": "step2.md"
+      },
+      {
+        "title": "Añadir el Build Name Format",
+        "text": "step3.md"
+      },
+      {
+        "title": "Guardar los cambios realizados",
+        "text": "step4.md"
+      },
+      {
+        "title": "Exportar pipeline creado a YAML",
+        "text": "step5.md"
+      },
+      {
+        "title": "Crear nueva rama y versionar YAML",
+        "text": "step6.md"
+      },
+      {
+        "title": "Crear pipeline ya existente a partir de archivo YAML",
+        "text": "step7.md"
+      },
+      {
+        "title": "Adicionar tareas de SonarQube",
+        "text": "step8.md"
+      }
+    ],
+    "intro": {
+      "text": "intro.md"
+    },
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "environment": {
+    "uilayout": "terminal"
+  },
+  "backend": {
+    "imageid": "golang:1.14"
+  }
+}
