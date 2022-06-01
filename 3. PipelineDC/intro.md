@@ -1,1 +1,0 @@
-En este escenario aprenderémos a configurar un pipeline de entrega continua, en el cual realizarémos la implemenación de un App Service en Azure para dos ambientes (Pruebas y Produccion), observando de esta manera los cambios reflejados en un sitio web.
