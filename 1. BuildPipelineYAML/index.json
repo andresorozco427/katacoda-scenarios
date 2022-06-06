@@ -1,0 +1,38 @@
+{
+  "title": "Pipeline de Integración Continua",
+  "description": "En este escenario se realizará un pipeline para el proceso de integración continua para nuestro proyecto",
+  "difficulty": "Beginner",
+  "time": "(30 minutes)",
+  "details": {
+    "steps": [
+      {
+        "title": "Crear de pipeline de integración continua a partir de plantilla .NET YAM",
+        "text": "step1.md"
+      },
+      {
+        "title": "Modificar pipeline YAML para compilar proyecto",
+        "text": "step2.md"
+      },
+      {
+        "title": "Guardar archivo en nueva rama y ajustar nombramiento",
+        "text": "step3.md"
+      },
+      {
+        "title": "Guardar los cambios realizados",
+        "text": "step4.md"
+      }
+    ],
+    "intro": {
+      "text": "intro.md"
+    },
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "environment": {
+    "uilayout": "terminal"
+  },
+  "backend": {
+    "imageid": "golang:1.14"
+  }
+}
