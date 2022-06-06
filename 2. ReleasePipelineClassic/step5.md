@@ -12,11 +12,11 @@ Una vez seleccionada, procedemos con la configuración de la tarea, los pasos so
 
 - Azure Suscription: En este seleccionaremos el service connection llamado **"EPM-TEST-SC-PARTSUNLIMITED"**. Este nos proporciona una conexión de servicio externo, en este caso **Azure**.
 ![configuracion-services-connection](./assets/configuracion-services-connection.png)
-- App Service Name: En este seleccionaremos el servicio de aplicacion llamado **partsunlimited-uat**
+- App Service Name: En este seleccionaremos el servicio de aplicacion llamado **partsunlimitedd-uat**
 ![configuracion-app-service-name](./assets/configuracion-app-service-name.png)
 
 Finalizada la configuración se debería ver de la siguiente manera.
 
 ![configuracion-tarea-terminada](./assets/configuracion-tarea-terminada.png)
 
-Una vez realizada la respectiva configuración de la tarea, replicar lo mismo para el stage de **[PRD] Web App** con la diferencia que en el App Service Name seleccionan el servicio de aplicación llamado **partsunlimited-prd**
+Una vez realizada la respectiva configuración de la tarea, replicar lo mismo para el stage de **[PRD] Web App** con la diferencia que en el App Service Name seleccionan el servicio de aplicación llamado **partsunlimitedd-prd**
