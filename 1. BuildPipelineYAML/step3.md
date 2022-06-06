@@ -11,9 +11,9 @@ En esta sesión, guardarémos el pipeline en una rama feature y ajustaremos el n
 
 ![commit](./assets/commit.png)
 
-2.Ya versionado y guardado el pipeline de integración continua, se procede a ajustar el nombramiento de la definición y a su vez moverlo a la carpeta correspondiente.
+2.Ya versionado y guardado el pipeline de integración continua, se procede a ajustar el nombramiento de la definición y a su vez moverlo a la carpeta correspondiente. Teniendo en cuenta la definición, el nombre para esta definición se plasmará de la siguiente manera: **CapacitacionEPM-Aplicacion.(NombrePersona)-General-IC**. En cuanto a la ubicación de la carpeta, se va a almacenar la definición en **\PartsUnlimited\YamlPipeline\General**
 
-Teniendo en cuenta la definición, el nombre para esta definición se plasmará de la siguiente manera: **CapacitacionEPM-Aplicacion.(NombrePersona)-General-IC**. En cuanto a la ubicación de la carpeta, se va a almacenar la definición en **\PartsUnlimited\YamlPipeline\General**
+![opcion-renombrar](./assets/opcion-renombrar.png)
 
 ![renombrar-mover](./assets/renombrar-mover.png)
 
